@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328571240285",
+    "project_id": "betting-strategies-90720",
+    "storage_bucket": "betting-strategies-90720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328571240285:android:d6c280b3d95df10d70b2b4",
+        "android_client_info": {
+          "package_name": "com.example.bettingstrategies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328571240285-lsoq2ptaav8ko96dmlnuq0qgnpn0db64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_jILxSAwyaUcQChl1mEmwKF7tc2Jsb1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328571240285-lsoq2ptaav8ko96dmlnuq0qgnpn0db64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
